@@ -1,0 +1,16 @@
+
+
+Step No.	Description	Test Data	Expected Result
+1	Open the web browser and go to the Facebook login page	URL: https://www.facebook.com	Facebook login page is displayed
+2	Click on the username field	-	Cursor is placed in the username field
+3	Enter a valid username in the username field	Example: validuser@example.com	Username is entered without errors
+4	Click on the password field	-	Cursor is placed in the password field
+5	Enter a valid password in the password field	Example: ValidPassword123	Password is entered without errors
+6	Click on the Log In button	-	User is successfully logged in and redirected to the homepage
+7	Click on the Logout button to sign out	-	User is successfully logged out and redirected to the login page
+8	Click on the username field again	-	Cursor is placed in the username field
+9	Enter an invalid username in the username field	Example: invaliduser@example.com	Username is entered without errors
+10	Click on the password field	-	Cursor is placed in the password field
+11	Enter an invalid password in the password field	Example: WrongPass123	Password is entered without errors
+12	Click on the Log In button	-	An error message is displayed: "The username or password you entered is incorrect."
+

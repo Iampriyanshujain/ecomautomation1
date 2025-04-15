@@ -1,0 +1,11 @@
+{
+  "login": [
+    {
+      "email": "codewithprasu@gmail.com",
+      "password": "Test@1234"
+    }
+  ],
+  "product": {
+    "search_term": "blue top"
+  }
+}
